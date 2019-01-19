@@ -4,6 +4,8 @@
 
 ## Visualization
 ### [Matplotlib](https://matplotlib.org/)
+### [Seaborn](https://seaborn.pydata.org/)
+- [controll figure aesthetics](https://seaborn.pydata.org/tutorial/aesthetics.html)
 - 
 
 ### [NumPy](http://www.numpy.org/)
